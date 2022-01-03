@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../blink"
+		},
+		{
+			"name": "tea-timer",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
